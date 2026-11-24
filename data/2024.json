@@ -1,0 +1,25 @@
+{
+  "year": 2024,
+  "ceremonyDate": "2024-03-10",
+  "categories": [
+    {
+      "name": "Best Picture",
+      "winner": {
+        "title": "Oppenheimer",
+        "releaseYear": 2023,
+        "runtimeMinutes": 180,
+        "directors": ["Christopher Nolan"],
+        "cast": [],
+        "imdbId": "tt15398776",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjM2NDc2NmItYjI5Ni00NzM1LWJlNmEtM2E3MTcxNjY3ODQ5XkEyXkFqcGdeQXVyMjkwNzUwMDc@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {"name":"Best Director","winner":{"person":"Christopher Nolan","film":"Oppenheimer"}},
+    {"name":"Best Actor","winner":{"person":"Cillian Murphy","film":"Oppenheimer"}},
+    {"name":"Best Actress","winner":{"person":"Emma Stone","film":"Poor Things"}},
+    {"name":"Best Supporting Actor","winner":{"person":"Robert Downey Jr.","film":"Oppenheimer"}},
+    {"name":"Best Supporting Actress","winner":{"person":"Da'Vine Joy Randolph","film":"The Holdovers"}},
+    {"name":"Writing (Original Screenplay)","winner":{"film":"Anatomy of a Fall","writers":["Justine Triet","Arthur Harari"]}},
+    {"name":"Writing (Adapted Screenplay)","winner":{"film":"American Fiction","writer":"Cord Jefferson"}}
+  ]
+}

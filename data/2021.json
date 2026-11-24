@@ -1,0 +1,46 @@
+{
+  "year": 2021,
+  "ceremonyDate": "2021-04-25",
+  "categories": [
+    {
+      "name": "Best Picture",
+      "winner": {
+        "title": "Nomadland",
+        "releaseYear": 2020,
+        "runtimeMinutes": 108,
+        "directors": ["Chloé Zhao"],
+        "cast": [],
+        "imdbId": "tt10276186",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAzNzY2MDc5OV5BMl5BanBnXkFtZTgwNzY5OTE2MjE@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {
+      "name": "Best Director",
+      "winner": { "person": "Chloé Zhao", "film": "Nomadland" }
+    },
+    {
+      "name": "Best Actor",
+      "winner": { "person": "Anthony Hopkins", "film": "The Father" }
+    },
+    {
+      "name": "Best Actress",
+      "winner": { "person": "Frances McDormand", "film": "Nomadland" }
+    },
+    {
+      "name": "Best Supporting Actor",
+      "winner": { "person": "Daniel Kaluuya", "film": "Judas and the Black Messiah" }
+    },
+    {
+      "name": "Best Supporting Actress",
+      "winner": { "person": "Yuh-jung Youn", "film": "Minari" }
+    },
+    {
+      "name": "Best Original Screenplay",
+      "winner": { "film": "Promising Young Woman", "writer": "Emerald Fennell" }
+    },
+    {
+      "name": "Best Adapted Screenplay",
+      "winner": { "film": "The Father", "writers": ["Christopher Hampton", "Florian Zeller"] }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "year": 2023,
+  "ceremonyDate": "2023-03-12",
+  "categories": [
+    {
+      "name": "Best Picture",
+      "winner": {
+        "title": "Everything Everywhere All at Once",
+        "releaseYear": 2022,
+        "runtimeMinutes": 139,
+        "directors": ["Dan Kwan", "Daniel Scheinert"],
+        "cast": [
+          {"name":"Michelle Yeoh","role":"Evelyn Wang"},
+          {"name":"Ke Huy Quan","role":"Waymond Wang"},
+          {"name":"Jamie Lee Curtis","role":"Deirdre Beaubeirdre"},
+          {"name":"Stephanie Hsu","role":"Joy Wang / Jobu Tupaki"},
+          {"name":"James Hong","role":"Gong Gong"}
+        ],
+        "imdbId":"tt6710474",
+        "posterUrl":"https://m.media-amazon.com/images/M/MV5BMTY2OTU2NzI2Ml5BMl5BanBnXkFtZTgwOTU0ODU2MjI@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {"name":"Best Director","winner":{"person":"Dan Kwan and Daniel Scheinert","film":"Everything Everywhere All at Once"}},
+    {"name":"Best Actor","winner":{"person":"Brendan Fraser","film":"The Whale"}},
+    {"name":"Best Actress","winner":{"person":"Michelle Yeoh","film":"Everything Everywhere All at Once"}},
+    {"name":"Best Supporting Actor","winner":{"person":"Ke Huy Quan","film":"Everything Everywhere All at Once"}},
+    {"name":"Best Supporting Actress","winner":{"person":"Jamie Lee Curtis","film":"Everything Everywhere All at Once"}},
+    {"name":"Best Original Screenplay","winner":{"film":"Everything Everywhere All at Once","writers":["Dan Kwan","Daniel Scheinert"]}},
+    {"name":"Best Adapted Screenplay","winner":{"film":"Women Talking","writer":"Sarah Polley"}}
+  ]
+}

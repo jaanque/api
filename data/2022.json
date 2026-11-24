@@ -1,0 +1,25 @@
+{
+  "year": 2022,
+  "ceremonyDate": "2022-03-27",
+  "categories": [
+    {
+      "name": "Best Picture",
+      "winner": {
+        "title": "CODA",
+        "releaseYear": 2021,
+        "runtimeMinutes": 111,
+        "directors": ["Sian Heder"],
+        "cast": [],
+        "imdbId": "tt10049342",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTU2OTQzNzA3M15BMl5BanBnXkFtZTgwODAyOTc0MDE@._V1_FMjpg_UX1000_.jpg"
+      }
+    },
+    {"name": "Best Director","winner": {"person": "Jane Campion","film": "The Power of the Dog"}},
+    {"name": "Best Actor","winner": {"person": "Will Smith","film": "King Richard"}},
+    {"name": "Best Actress","winner": {"person": "Jessica Chastain","film": "The Eyes of Tammy Faye"}},
+    {"name": "Best Supporting Actor","winner": {"person": "Troy Kotsur","film": "CODA"}},
+    {"name": "Best Supporting Actress","winner": {"person": "Ariana DeBose","film": "West Side Story"}},
+    {"name": "Best Original Screenplay","winner": {"film": "Encanto","writer": "Jenna Ortega"}},
+    {"name": "Best Adapted Screenplay","winner": {"film": "CODA","writers": ["Sian Heder"]}}
+  ]
+}

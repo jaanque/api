@@ -1,0 +1,52 @@
+{
+  "year": 2020,
+  "ceremonyDate": "2020-02-09",
+  "categories": [
+    {
+      "name": "Best Picture",
+      "winner": {
+        "title": "Parasite",
+        "releaseYear": 2019,
+        "runtimeMinutes": 132,
+        "directors": ["Bong Joon-ho"],
+        "cast": [
+          { "name": "Song Kang-ho", "role": "Kim Ki-taek" },
+          { "name": "Lee Sun-kyun", "role": "Park Dong-ik" },
+          { "name": "Cho Yeo-jeong", "role": "Choi Yeon-gyo" },
+          { "name": "Choi Woo-shik", "role": "Ki-woo" },
+          { "name": "Park So-dam", "role": "Ki-jung" }
+        ],
+        "imdbId": "tt6751668",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjJhNjc0ZDYtYjc4ZC00ZjVmLWE4YzItY2VkNjJlNzU5MzNmXkEyXkFqcGdeQXVyODE5NzM5MDU@._V1_.jpg"
+      }
+    },
+    {
+      "name": "Best Director",
+      "winner": { "person": "Bong Joon-ho", "film": "Parasite" }
+    },
+    {
+      "name": "Best Actor",
+      "winner": { "person": "Joaquin Phoenix", "film": "Joker" }
+    },
+    {
+      "name": "Best Actress",
+      "winner": { "person": "Renée Zellweger", "film": "Judy" }
+    },
+    {
+      "name": "Best Supporting Actor",
+      "winner": { "person": "Brad Pitt", "film": "Once Upon a Time in Hollywood" }
+    },
+    {
+      "name": "Best Supporting Actress",
+      "winner": { "person": "Laura Dern", "film": "Marriage Story" }
+    },
+    {
+      "name": "Best Original Screenplay",
+      "winner": { "writers": ["Bong Joon-ho", "Han Jin-won"], "film": "Parasite" }
+    },
+    {
+      "name": "Best Adapted Screenplay",
+      "winner": { "writers": ["Taika Waititi", "Jemaine Clement", "Rhys Darby", "James C. Snell"], "film": "Jojo Rabbit" }
+    }
+  ]
+}
